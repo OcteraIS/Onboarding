@@ -22,10 +22,12 @@ In my work I use the following. I prefer if you do as well. If you want to use W
 * R (less often) 
 * Excel! Spreadsheets are great for data exploration.
 * Slack
+* Various Google Docs tools
+* Google Cloud and Colab
 
 ### Latex
-* Sharelatex/Authorea - sometimes, more often plain Latex over Git.
-* SublimeText for Mac and the Latextools Plugin
+* Sharelatex/Overleaf - sometimes, more often plain Latex over Git. IEEE members get free plans.
+* VS Code, TexPad for Mac and the Latextools Plugin
 * Bibtex! Everything you read you should stick in Bibtex. Checkout doi2bib.org. 
 
 ## Compute Canada and WestGrid
@@ -40,6 +42,7 @@ MSc. Students need to take 5 courses and the Research Skills course (595). A few
 - CSC 511 Information Visualization
 - CSC578B: Topics in Software Applications: "Computer-Supported Collaborative Work"
 - CSC581C: Topics in Artificial Intelligence
+- Every semester you should register for CSC 599, the Master's thesis. Do this even if you are "done" with courses.
 
 And others as you (and I) see fit. There is a breadth requirement as well but I have no idea how that works yet, to be honest. Check with the graduate handbook. I think these courses should cover the breadth. 
 
@@ -61,5 +64,5 @@ I have a copy of "Getting What You Came For" in my office.
 
 ## Other expectations 
 * attend defences and dry runs for students in the group
-* attend relevant and barely relevant colloquia.  
+* attend relevant and barely relevant colloquia, like the [Matrix seminars](https://onlineacademiccommunity.uvic.ca/matrix/events/). 
 * tackle some of [these readings](readings.md)
