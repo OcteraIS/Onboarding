@@ -11,6 +11,7 @@ I prefer to be called Neil and addressed he/him.
 # Your first day
 
 * Read the [research ethics](ethics.md) guidelines. Chat with Neil if you have any questions about lab norms or would like to add or change anything in the code of conduct. 
+* Read my [expectations](expectations.asciidoc).
 * Join the [slack channel](https://octera.slack.com) by asking [Neil](neil@neilernst.net) to send you an invite.
 
 ## Tools
