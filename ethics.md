@@ -9,6 +9,8 @@ While we do this, we must keep in mind three sets of guidelines to ensure we do 
 # Ethical Research
 Ethical research means taking care of the people we do research 'on/with', and working within a moral framework. Many of the studies we conduct involve human beings. As such, they fall under several legal frameworks for protecting research participants. In particular, we *must* comply with the University [research ethics board](https://www.uvic.ca/research/conduct/home/regapproval/humanethics/index.php) and policies [RH8100](https://www.uvic.ca/universitysecretary/assets/docs/policies/RH8100_1200_.pdf) and [RH8105](https://www.uvic.ca/universitysecretary/assets/docs/policies/RH8105_1250_.pdf), and the Tri-Council (NSERC/CIHR/SSHRC) [policy statement](http://www.pre.ethics.gc.ca/eng/policy-politique/initiatives/tcps2-eptc2/Default/). Please read these!
 
+Jésus Gonzales-Barahona has [an excellent set of slides](https://jgbarah.github.io/presentations/research-privacy/slides.pdf) on ethics in mining software data. 
+
 As far as the research we do being within a particular moral code, I tend to address this on a case by case basis. I recommend the [IEEE/ACM code of ethics](https://www.computer.org/web/education/code-of-ethics) as a good starting point. 
 
 # Responsible Research
