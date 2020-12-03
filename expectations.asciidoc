@@ -57,6 +57,15 @@ The funding you receive is variable and depends on the funds available for the p
 == Term length
 In terms of length of your program, we should be clear about that up front. Generally it is 18-24 months for a masters; 3-4 years for a PhD, and other positions are defined when you are hired. Of course there are exceptions!
 
+== Graduation expectations
+A thesis is the main deliverable for MSC students. It will usually be about 80-100 pages including TOC, bibliography, frontmatter. A thesis will take about 1 term to write if there is an existing paper. Budget about 1 day of writing per "text" page.
+
+The standard to meet is a 10 page 2nd tier (RE, ICSA, VLHCC, SANER, ICSME) or better paper. It does not have to get accepted but should be close.
+
+You need to leave 20 days between your committee (me + 1 other person in the department) approving the thesis, and the actual defence. This often means students run over into another term (and associated fees). Plan the timeline carefully as the committee might be busy and not have time to offer feedback immediately.
+
+For PhD students, this is all the same, but the thesis is at least twice as long and typically you want 3-4 papers.
+
 == Travel guidelines
 One of the perks we have as academics is travel (although it comes with its own drawbacks!). We have limited money for travel, you can help as follows:
 
