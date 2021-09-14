@@ -14,7 +14,11 @@ I prefer to be called Neil and addressed he/him.
 * Read my [expectations](expectations.asciidoc).
 * Join the [slack channel](https://octera.slack.com) by asking [Neil](neil@neilernst.net) to send you an invite.
 
-## Tools
+You should familiarize yourself with university grad student resources, including the department's [Graduate Handbook](https://www.uvic.ca/ecs/computerscience/assets/docs/grad/graduatehandbookcs.pdf) and [international student office](https://www.uvic.ca/international/home/contact/iss/index.php). The latter is very helpful for questions about insurance, health matters, etc.
+
+The [UVic Reddit page](https://www.reddit.com/r/uvic/) can be useful as well. 
+
+# Tools
 In my work I use the following. I prefer if you do as well. If you want to use Word, for instance, please have a good reason (usually, some funding agency only accepts Word).
 
 * Github
@@ -36,7 +40,7 @@ forthcoming
 * [Uvic Jupyter server](https://uvic.syzygy.ca)
 
 ## Courses and Skillsets
-MSc. Students need to take 5 courses and the Research Skills course (595). A few recommendations:
+MSc. Students need to take 4 courses and the Research Skills course (595). A few recommendations:
 - Documenting and Understanding Software Systems - Topics in Software Applications CSC 578A my Documentation course
 - Data Mining TPCS:SOFTWARE APPLICATION: Data Mining CSC 578D
 - ML theory : TPCS:ARTIFICIAL INTELGNCE: Machine Learning Theory  CSC 581B 
@@ -65,5 +69,5 @@ I have a copy of "Getting What You Came For" in my office.
 
 ## Other expectations 
 * attend defences and dry runs for students in the group
-* attend relevant and barely relevant colloquia, like the [Matrix seminars](https://onlineacademiccommunity.uvic.ca/matrix/events/). 
+* attend relevant and even barely relevant colloquia, like the [Matrix seminars](https://onlineacademiccommunity.uvic.ca/matrix/events/) (to be clear, highly relevant!). 
 * tackle some of [these readings](readings.md)
