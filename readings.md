@@ -1,14 +1,14 @@
-----
+---
 Title: Grad Student Reading List
 Updated: Fall 2021
-----
+---
 
 These are some seminal papers/books that inform my research directions. I suggest you tackle at least a few of them. I have copies of these, just ask for one.
 
 # Software Analytics and Data Science
 * Tu and Godfrey, [Linux evolution](https://ieeexplore.ieee.org/document/883030)
 * Pitfalls papers listed at https://github.com/UVic-Data-Science-for-SE/course#techniques-data-mining-basics-include-search-and-optimize
-* Book [Perspectives on Software Analytics](https://www.elsevier.com/books/perspectives-on-data-science-for-software-engineering/menzies/978-0-12-804206-9)
+* Book [Perspectives on Data Science for SE](https://github.com/ds4se)
 
 
 # Requirements and Goals
