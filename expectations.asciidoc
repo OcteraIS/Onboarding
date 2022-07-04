@@ -15,9 +15,11 @@ When you need me to read or do things for you -- papers, proposals, reference le
 Make what you need obvious. Send me a short explanation of what changed in the 10 pages, etc.
 
 == Paper participation
-Writing and publishing papers is an essential part of any academic's life. I expect and encourage all of you to write papers during the course of your degree or time in my group. However, we need to plan when to write such papers and to choose the best venues for them. When you decide on a specific paper to write, please let me know in advance so that I can plan to participate in them. If you are writing papers on work that I fund, or on work that I am spending time to supervise, I do expect the opportunity to participate as an author. When I am an author, I like to not just contribute intellectually to the ideas, but also to help with writing -- so try to give me enough notice so that I can plan it and I will let you know my expected level of input. However, if you write papers on topics outside your funded or supervised research area (and outside regular working hours) then just let me know as I do not expect to be an author. If in doubt, you should ask me and let me know if you work on other research outside our group.
+Writing and publishing papers is an essential part of any academic's life. I expect and encourage all of you to write papers during the course of your degree or time in my group. However, we need to plan when to write such papers and to choose the best venues for them. When you decide on a specific paper to write, please let me know in advance so that I can plan to participate in them. If you are writing papers on work that I fund, or on work that I am spending time to supervise, I do expect the opportunity to participate as an author. 
 
-Note: I can only pay for students going to conferences that are related to one of my funded projects/grants/conferences -- and these need to be planned for many months or even a year in advance so it is in my budget. Canadian research budgets are notoriously underprovisioned for travel (maybe we shouldn't travel so much...) so a trip to Italy, China, etc. is a significant cost I need to plan for.
+When I am an author, I like to not just contribute intellectually to the ideas, but also to help with writing---so try to give me enough notice so that I can plan it and I will let you know my expected level of input. However, if you write papers on topics outside your funded or supervised research area (and outside regular working hours) then just let me know as I do not expect to be an author. If in doubt, you should ask me and let me know if you work on other research outside our group.
+
+Note: I can only pay for students going to conferences that are related to one of my funded projects/grants/conferences---and these need to be planned for many months or even a year in advance so it is in my budget. Canadian research budgets are notoriously underprovisioned for travel (maybe we shouldn't travel so much...) so a trip to Italy, China, etc. is a significant cost I need to plan for.
 
 As a guideline of what is expected, masters students should publish 1-2 conference papers (or perhaps 1 conference, 2 workshops papers) during their two years in the group; phd students should aim for 3 conference (with at least one of these expanding to a journal) and perhaps some workshop papers earlier in their career); postdoc should be participating on several papers a year (and leading at least 1-2 papers).
 
@@ -58,6 +60,12 @@ My expectation for funded students is that this is your full-time work. This all
 == Funding, time in the program etc.
 The funding you receive is variable and depends on the funds available for the project you are on as well as on your ongoing progress. Please ask me if you have any concerns about the funding you receive. Note that the project funding we receive has to pay for many things such as printing, equipment in the lab, research assistants, food expenses for group meetings, etc.
 
+You should avail yourself of the TA opportunities if possible. If I am funding your research, I expect you to limit the number of hours so you have sufficient time to do the research work. 
+
+=== External Work
+If I am funding you, you should not be taking on external work other than TAships and pre-arranged co-ops. If you want to do part-time work, especially if you are out of funding, you should check with me about how to manage this. In my experience it is better to work full time on the research and finish earlier, than to work part-time on the research and finish later.
+
+=== Co-op
 Our department has a [graduate co-op program](https://www.uvic.ca/coopandcareer/co-op/grad-students/index.php) which can be very useful for getting Canadian work experience. I am ok with this if you have a clear timeline for graduation and for finishing our research projects. In my experience students on co-op tend to have very little additional time for research, so it represents a 4 month delay in graduation. A co-op therefore works best for students who are finishing up their thesis after the bulk of data collection and analysis is complete. 
 
 Co-ops and research internships are different beasts and the latter are definitely encouraged. 
@@ -83,8 +91,7 @@ One of the perks we have as academics is travel (although it comes with its own 
 - Apply to be a student volunteer at a conference and get free registration.
 - Use public transportation or shuttles instead of expensive taxis, or share taxis. Obviously there are exceptions here (such as late at night or very awkward destinations).
 - UVic allows per diems, but if you can find cheaper options for food that is still nutritious please submit the lower amount. In fancy hotels, look around for cheaper breakfast options. However, sometimes there are none, I know!
-- Avail of the free food at the conferences, check if there is breakfast and other meals provided. If there are meals provided, I won’t be able to reimburse you. Yes you can go to the banquet for the conference if one is offered (networking at banquets is important :) ). Some conferences don’t
-include the banquet with student rates, so add it!
+- Avail of the free food at the conferences, check if there is breakfast and other meals provided. If there are meals provided, I won’t be able to reimburse you. Yes you can go to the banquet for the conference if one is offered (networking at banquets is important :) ). Some conferences don’t include the banquet with student rates, so add it!
 - In general keep costs low in a reasonable way as it adds up quickly as a group! If you do this, I can send more of you to more conferences! If in doubt though, ask!
 
 **Note: Do not assume that your travel can be funded—please ask me before committing to anything!**
@@ -96,6 +103,12 @@ I will also be asking you all to help with other tasks throughout your time in t
 
 == Communication
 A lot of the above comes down to communication and setting expectations. Make sure to communicate with me and your peers; set clear expectations and try not to leave people guessing.
+
+== Other expectations 
+* attend defences and dry runs for students in the group
+* attend relevant and even barely relevant colloquia, like the [Matrix seminars](https://onlineacademiccommunity.uvic.ca/matrix/events/) (to be clear, highly relevant!). 
+* tackle some of [these readings](readings.md)
+
 
 == Your feedback on this
 If you are uncomfortable with any of the above, please let me know! And if at any time you feel you are not getting enough time from me or are otherwise unhappy, talk to me about it.
