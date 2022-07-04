@@ -1,0 +1,37 @@
+# Writing Guidelines for Scientific Papers
+
+Our main (world-visible) output is text in the form of scientific reports and papers. Getting good at writing is critical. 
+
+## Outlining and Narrative Style
+Remember reviewers / me / editors / readers likely spend less than 60 minutes reading the paper. They aren't stupid people, but they can't dedicate time to dissect your arguments. Make it clear. 
+
+*Reverse outlining* is a good way to start. A reverse outline has you write a bunch of text. You then number the paragraphs and identify the message/topic of each paragraph. Put those on a whiteboard as stickies. Then order it so that the narrative comes through. Then rewrite the paper accordingly.
+
+Avoid parentheticals and footnotes. Sure, you might think it important in the grand scheme of the work (to capture some minor caveat that is), but for the paper it just confuses readers. But that's ok, because you documented the exceptions in the replication package / notebook. Right? 
+
+## Latex Crap
+It is the most useful and most annoying tool we use.
+
+I suggest using the "one line per sentence" approach. This makes merge conflicts simpler in Latex.
+
+I have a pro Overleaf account which allows for history and extra collaborators. But if you prefer, using Github is pretty good.
+
+## Images and tables
+- never use lossy formats. I prefer to save everything as vector-style PDF. PNGs look like crap usually.
+- Don't be skimpy with captions. The figure or table should stand alone for a reader.
+- Always get your outputs to use intermediate data which you save to disk, so we can readily re-generate tables and images. 
+
+## Misc tips
+- it might be useful to have the paper in separate Latex files once it gets large. This reduces merge conflicts. But makes it annoying for some editors to outline.
+- Be short and to the point. Technical writing should not meander [line-through]#around#. You will be amazed at how many words we can cut and still keep the message intact.
+- Write out numbers less than ten. Use digits for bigger numbers like 476. Add a comma to the number if it's more than a thousand.
+- Use active voice.
+- Et alia -> et al. not et. al or et al 
+- Some students of mine have struggled with capitalization (not all languages have the notion of capital letters). In English we capitalize the word starting the sentence and https://www.grammarly.com/blog/proper-nouns/[proper nouns] like GitHub. That's it!
+
+## Resources
+1. Uvic Writing Centre
+2. https://www.writingstyleguide.com/[Writing Style Guide]
+3. https://www.grammarly.com/[Grammarly] is useful for the basics, such as sentence faults. I would rather not correct these errors.
+4. Octera Thesis Latex Template.
+5. https://proselint.com/[Proselint] is a good tool for checking your writing errors.
