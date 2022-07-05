@@ -1,5 +1,14 @@
 Replication and reproducibility are very important but most important is to get accurate, true results.
 
+It also makes it easier for us to remember where we were if we use a standard lab approach. 
+
+# Our Current (2022) Workflow
+
+1. Everything happens on the Octera organization. 
+2. Use [Data Version Control](dvc.org) to track experiments. 
+3. Either create a companion markdown file to serve as a notebook, or just use Jupyter. Record all the experiments you run, including the parameters you use. 
+4. Save intermediate files to avoid re-work. 
+
 # ML Projects
 Taken from https://doi.org/10.1186/s13040-017-0155-3 
 
@@ -23,7 +32,7 @@ Chakkrit has a [useful series of pitfalls](http://chakkrit.com/assets/papers/tan
 6. Using 10-folds cross-validation for model validation
 7. Using ANOVA Type-I when interpreting a model 
 8. Interpreting a model using the coeffcients of the variables
- 
+
 # Bayesian Analysis
 Bayesian analysis does well when we have small datasets, and some prior knowledge about what the data should be modeled as (e.g. we suspect a normal distribution). It works well when we need the "why" because it produces an explicit model for decision analysis.
 

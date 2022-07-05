@@ -13,11 +13,14 @@ A good paper is https://users.ece.utexas.edu/~perry/education/SE-Intro/fakeit.pd
 
 The same idea applies in writing up results. We aren't trying to recap the process used alongside missteps. We are trying to answer a scientific question. The paper is a abbreviated/abridged summary of how we got there. 
 
+Be short and to the point. Technical writing should not meander [line-through]#around#. You will be amazed at how many words we can cut and still keep the message intact.
 
 ## Latex Crap
 It is the most useful and most annoying tool we use.
 
 I suggest using the "one line per sentence" approach. This makes merge conflicts simpler in Latex.
+
+It might be useful to have the paper in separate Latex files once it gets large. This reduces merge conflicts. But makes it annoying for some IDE editors to outline.
 
 I have a pro Overleaf account which allows for history and extra collaborators. But if you prefer, using Github is pretty good.
 
@@ -31,14 +34,13 @@ Bibtex! Everything you read you should stick in Bibtex. Checkout doi2bib.org or 
 - Always get your outputs to use intermediate data which you save to disk, so we can readily re-generate tables and images. A common scenario is you finish up the research, we submit to a conference, and then when revising I have to figure out how we got a figure to look the way it does. 
 
 ## Misc tips
-- it might be useful to have the paper in separate Latex files once it gets large. This reduces merge conflicts. But makes it annoying for some IDE editors to outline.
-- Be short and to the point. Technical writing should not meander [line-through]#around#. You will be amazed at how many words we can cut and still keep the message intact.
 - Write out numbers less than ten. Use digits for bigger numbers like 476. Add a comma to the number if it's more than a thousand.
 - Use active voice.
 - Academic writing does not use contractions.
 - When in doubt write out the abbreviation.
 - Et alia -> et al. not et. al or et al 
 - Some students of mine have struggled with capitalization (not all languages have the notion of capital letters). In English we capitalize the word starting the sentence and https://www.grammarly.com/blog/proper-nouns/[proper nouns] like GitHub. That's it!
+- Be sure to use proper attribution of quotes and other people's work. Plagiarism is a serious academic integrity violation. 
 
 ## Resources
 1. https://www.uvic.ca/learningandteaching/cac/index.php[Uvic Writing Centre]
