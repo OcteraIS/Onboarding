@@ -2,7 +2,7 @@
 
 Our main (world-visible) output is text in the form of scientific reports and papers. Getting good at writing is critical. Here are some of my hints and pet peeves.
 
-This is a [useful checklist for finalizing and submitting](https://nicholas.carlini.com/writing/2022/paper-release-checklist.html) papers.
+This is a useful https://nicholas.carlini.com/writing/2022/paper-release-checklist.html[checklist for finalizing and submitting] papers.
 
 ## Outlining and Narrative Style
 Remember reviewers / me / editors / readers likely spend less than 60 minutes reading the paper. They aren't stupid people, but they can't dedicate time to dissect your arguments. Make it clear. It seems simple to you because you've spent the past six months on the problem. You would be surprised how much knowledge you are assuming. 
