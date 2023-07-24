@@ -16,7 +16,7 @@ The following policies that guide our lab's conduct and approach.
 * Read the [writing tips](writing.asciidoc).
 
 # Chat and Tools
-* Join the [slack channel](https://octera.slack.com) by asking [Neil](neil@neilernst.net) to send you an invite.
+* Join the Teams channel (get a Teams account [at UVic here](https://onlineservices.uvic.ca/).
 
 You should familiarize yourself with university grad student resources, including the department's [Graduate Handbook](https://www.uvic.ca/ecs/computerscience/assets/docs/grad/graduatehandbookcs.pdf) and [international student office](https://www.uvic.ca/international/home/contact/iss/index.php). The latter is very helpful for questions about insurance, health matters, etc.
 
@@ -28,12 +28,13 @@ We have an account with Canada's Digital Research alliance / Compute Canada. Thi
 
 ## Courses and Skillsets
 MSc. Students need to take 4 courses and the Research Skills course (595). A few recommendations:
-- Documenting and Understanding Software Systems - Topics in Software Applications CSC 578A my Documentation course
+
 - Data Mining TPCS:SOFTWARE APPLICATION: Data Mining CSC 578D
 - ML theory : TPCS:ARTIFICIAL INTELGNCE: Machine Learning Theory  CSC 581B 
 - CSC 511 Information Visualization
 - CSC578B: Topics in Software Applications: "Computer-Supported Collaborative Work"
 - CSC581C: Topics in Artificial Intelligence
+- My course on Data Science for Software Engineering
 - Every semester you should register for CSC 599, the Master's thesis. Do this even if you are "done" with courses.
 
 And others as you (and I) see fit. Check with the graduate handbook. 
