@@ -30,7 +30,6 @@ We have an account with Canada's Digital Research alliance / Compute Canada. Thi
 MSc. Students need to take 4 courses and the Research Skills course (595). A few recommendations:
 
 - Data Mining TPCS:SOFTWARE APPLICATION: Data Mining CSC 578D
-- ML theory : TPCS:ARTIFICIAL INTELGNCE: Machine Learning Theory  CSC 581B 
 - CSC 511 Information Visualization
 - CSC578B: Topics in Software Applications: "Computer-Supported Collaborative Work"
 - CSC581C: Topics in Artificial Intelligence
@@ -47,11 +46,13 @@ And others as you (and I) see fit. Check with the graduate handbook.
 
 ## Being a good researcher/student
 
+Some ideas of what to [work on from Greg Wilson.](https://third-bit.com/ideas/research/)
+
 I have a few resources here (there are tons). The first is [all the links on Michael Ernst's page](https://homes.cs.washington.edu/~mernst/advice/). These are all well worth reading. If you are not a strong writer, you should definitely pay attention to the advice on writing. But part of my job is to help you with that (modulo some basic ability). 
 
 The mandatory reading for this onboarding is [Matt Might's](http://matt.might.net/) [Illustrated Guide to a PhD](http://matt.might.net/articles/phd-school-in-pictures/). It's a beautiful description of the frustration and wonder of conducting research. 
 
-![width=100px](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.012.jpg)
+<img alt="A circle with a very tiny bump on it, representing a PhD" width="300px" src="http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.012.jpg">
 
 I have a copy of "Getting What You Came For" in my office.
 
